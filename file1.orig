@@ -1,10 +1,14 @@
 line 1 
 line 2
-<<<<<<< HEAD
 line 3
 line 4
-=======
-line 2
-line 2
 line 5
->>>>>>> 841839b (line 3&4&5 added)
+<<<<<<< HEAD
+line 6
+line 7
+line 8
+=======
+line 5
+line 5
+line 5
+>>>>>>> 696a316 (line 5&5&5 added)
