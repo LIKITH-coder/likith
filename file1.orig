@@ -3,12 +3,13 @@ line 2
 line 3
 line 4
 line 5
-<<<<<<< HEAD
 line 6
 line 7
 line 8
+<<<<<<< HEAD
+line 8
+line 8
 =======
-line 5
-line 5
-line 5
->>>>>>> 696a316 (line 5&5&5 added)
+line 9
+line 10
+>>>>>>> 6a5d61d (line 9&10 added)
